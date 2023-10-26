@@ -28,5 +28,7 @@ namespace Extention_Nullable_Enum_tasks.Helpers.BaseExtentions
             }
             return multiple;
         }
+
+
     }
 }

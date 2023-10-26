@@ -14,12 +14,12 @@ using System.Text.RegularExpressions;
 
 
 
-//////task3-
-////Console.Write("Enter your name: ");       
-////string name = Console.ReadLine();
-////Console.Write("Enter your surname: ");
-////string surname = Console.ReadLine();
-////Console.WriteLine(name.GetFullName(surname));
+////task3-
+//Console.Write("Enter your name: ");
+//string Name = Console.ReadLine();
+//Console.Write("Enter your surname: ");
+//string SurName = Console.ReadLine();
+//Console.WriteLine(Name.GetFullName(SurName));
 
 
 //////task4

@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\bin\Debug\net6.0\Extention Nullable Enum tasks.exe
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\bin\Debug\net6.0\Extention Nullable Enum tasks.deps.json
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\bin\Debug\net6.0\Extention Nullable Enum tasks.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\bin\Debug\net6.0\Extention Nullable Enum tasks.dll
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\bin\Debug\net6.0\Extention Nullable Enum tasks.pdb
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\Extention Nullable Enum tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\Extention Nullable Enum tasks.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\Extention Nullable Enum tasks.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\Extention Nullable Enum tasks.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\Extention Nullable Enum tasks.dll
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\refint\Extention Nullable Enum tasks.dll
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\Extention Nullable Enum tasks.pdb
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\Extention Nullable Enum tasks.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\extention,nullable\Extention Nullable Enum tasks\Extention Nullable Enum tasks\obj\Debug\net6.0\ref\Extention Nullable Enum tasks.dll
